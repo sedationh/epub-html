@@ -6,6 +6,7 @@ function App() {
       <ul>
         <li>
           <li><a href="/outputs/holes/holes.html">holes</a></li>
+<li><a href="/outputs/holes-en/holes-en.html">holes-en</a></li>
 
         </li>
       </ul>
