@@ -1,0 +1,52 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "FuturaStd-Medium";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: normal;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "FuturaStd-Medium";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: italic;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "FuturaStd-Book";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "FuturaStd-Book";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: italic;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ACaslonPro";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: italic;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ACaslonPro";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: italic;
+  font-weight: bold;
+}
+@font-face {
+  font-family: "ACaslonPro";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: normal;
+  font-weight: normal;
+}
+@font-face {
+  font-family: "ACaslonPro";
+  src: url(OEBPS/Styles/XXXXXXXXXXXXXXXX);
+  font-style: normal;
+  font-weight: bold;
+}

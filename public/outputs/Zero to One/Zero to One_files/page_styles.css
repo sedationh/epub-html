@@ -1,0 +1,124 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "BemboStd";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/BemboStd-Italic.otf);
+}
+@font-face {
+  font-family: "BemboStd";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/BemboStd-Semibold.otf);
+}
+@font-face {
+  font-family: "BemboStd";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/BemboStd-SemiboldItalic.otf);
+}
+@font-face {
+  font-family: "BemboStd";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/BemboStd.otf);
+}
+@font-face {
+  font-family: "JoannaMTStd";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/JoannaMTStd-Bold.otf);
+}
+@font-face {
+  font-family: "JoannaMTStd";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/JoannaMTStd-BoldItalic.otf);
+}
+@font-face {
+  font-family: "JoannaMTStd";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/JoannaMTStd-Italic.otf);
+}
+@font-face {
+  font-family: "JoannaMTStd";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/JoannaMTStd-Regular.otf);
+}
+@font-face {
+  font-family: "MuseoSans_300";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/MuseoSans_300.otf);
+}
+@font-face {
+  font-family: "MuseoSans_300";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/MuseoSans_300_Italic.otf);
+}
+@font-face {
+  font-family: "MuseoSans_500";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/MuseoSans_500.otf);
+}
+@font-face {
+  font-family: "MuseoSans_500";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/MuseoSans_500_Italic.otf);
+}
+@font-face {
+  font-family: "MuseoSans_300";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/MuseoSans_700.otf);
+}
+@font-face {
+  font-family: "MuseoSans_300";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/MuseoSans_700_Italic.otf);
+}
+@font-face {
+  font-family: "MuseoSans_500";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/MuseoSans_900.otf);
+}
+@font-face {
+  font-family: "MuseoSans_500";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/MuseoSans_900_Italic.otf);
+}
+@font-face {
+  font-family: "WalbaumMTStd";
+  font-style: italic;
+  font-weight: normal;
+  src: url(OEBPS/fonts/WalbaumMTStd-Italic.otf);
+}
+@font-face {
+  font-family: "WalbaumMTStd";
+  font-style: normal;
+  font-weight: bold;
+  src: url(OEBPS/fonts/WalbaumMTStd-Medium.otf);
+}
+@font-face {
+  font-family: "WalbaumMTStd";
+  font-style: italic;
+  font-weight: bold;
+  src: url(OEBPS/fonts/WalbaumMTStd-MediumIt.otf);
+}
+@font-face {
+  font-family: "WalbaumMTStd";
+  font-style: normal;
+  font-weight: normal;
+  src: url(OEBPS/fonts/WalbaumMTStd-Regular.otf);
+}
