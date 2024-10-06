@@ -97,6 +97,10 @@ body {
   font-size: 26px;
   line-height: 2em;
 }
+
+img {
+  width: 100% !important;
+}
 `,
         "utf8"
       );
