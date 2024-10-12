@@ -1,0 +1,28 @@
+@page {
+  margin-bottom: 5pt;
+  margin-top: 5pt;
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-style: normal;
+  src: url(OEBPS/fonts/Montserrat-Regular.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: normal;
+  font-style: italic;
+  src: url(OEBPS/fonts/Montserrat-Italic.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-style: normal;
+  src: url(OEBPS/fonts/Montserrat-Bold.ttf);
+}
+@font-face {
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-style: italic;
+  src: url(OEBPS/fonts/Montserrat-BoldItalic.ttf);
+}
